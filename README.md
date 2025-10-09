@@ -23,7 +23,8 @@ Reach out to me via email or check out my portfolio:
 
 - 📧 Email: [ronxldwilson@gmail.com](mailto:ronxldwilson@gmail.com)  
 - 🌐 Portfolio: [ronxldwilson.vercel.app](https://ronxldwilson.vercel.app)  
-- 💼 LinkedIn: [linkedin.com/in/ronxldwilson](https://www.linkedin.com/in/ronxldwilson)  
+- 💼 LinkedIn: [linkedin.com/in/ronxldwilson](https://www.linkedin.com/in/ronxldwilson)
+- 🐦 Twitter: [@ronxldwilson](https://x.com/ronxldwilson)
 
 ---
 

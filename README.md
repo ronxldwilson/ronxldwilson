@@ -7,19 +7,23 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer who enjoys building scalable, user-friendly, and performance-driven applications. Whether it's crafting elegant frontend interfaces or architecting powerful backend systems, I'm all about building with purpose and learning something new every day.
+I'm a full-stack developer passionate about building **scalable, user-friendly applications**. I enjoy working across the stack — from elegant frontend interfaces to powerful backend systems — and learning new technologies along the way.  
 
-- 🌱 I’m learning: **LLM fine-tuning, prompt engineering, and Neovim optimization**
-- 💬 Ask me about: **FastAPI, Next.js, Supabase, Ollama, Docker**
-- ⚡ Fun fact: I occasionally write bash one-liners that even I can't understand the next day 😄
+- 🌱 I’m currently exploring **LLM fine-tuning, prompt engineering, and Neovim optimization**  
+- 💬 Ask me about **FastAPI, Next.js, Supabase, Ollama, Docker**
+- ⚡ Fun fact: I sometimes write **scripts that surprise even me** the next day 😅
+ 
 
 ---
 
-## 💼 Available for Freelance Work
+## 💼 Work & Contact
 
-I'm currently open to freelance or contract-based web development projects.
+I'm open to **freelance or contract-based web development projects**.  
+Reach out to me via email or check out my portfolio:
 
-If you have an idea you'd like to bring to life, feel free to [reach out via LinkedIn](https://www.linkedin.com/in/ronxldwilson).
+- 📧 Email: [ronxldwilson@gmail.com](mailto:ronxldwilson@gmail.com)  
+- 🌐 Portfolio: [ronxldwilson.vercel.app](https://ronxldwilson.vercel.app)  
+- 💼 LinkedIn: [linkedin.com/in/ronxldwilson](https://www.linkedin.com/in/ronxldwilson)  
 
 ---
 
@@ -44,14 +48,7 @@ If you have an idea you'd like to bring to life, feel free to [reach out via Lin
 
 ## 🤝 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/ronxldwilson)
-- [Twitter](https://twitter.com/ronxldwilson)
-<!-- - [Portfolio Website](https://ronxldwilson.dev) If you have one -->
-
-<!-- Feel free to add other links like dev.to, medium, etc. -->
-
----
-
-<!-- 
-**RonxldWilson/RonxldWilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
--->
+- [LinkedIn](https://www.linkedin.com/in/ronxldwilson)  
+- [Twitter](https://twitter.com/ronxldwilson)  
+- [Portfolio](https://ronxldwilson.vercel.app)  
+- [Email](mailto:ronxldwilson@gmail.com)

@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a full-stack developer passionate about building **scalable, user-friendly applications**. I enjoy working across the stack — from elegant frontend interfaces to powerful backend systems — and learning new technologies along the way.  
+I'm a full-stack developer passionate about building **scalable, user-friendly applications**. I enjoy working across the stack from elegant frontend interfaces to powerful backend systems and learning new technologies along the way.  
 
 - 🌱 I’m currently exploring **LLM fine-tuning, prompt engineering, and Neovim optimization**  
 - 💬 Ask me about **FastAPI, Next.js, Supabase, Ollama, Docker**

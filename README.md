@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ronald Wilson</h1>
+<h1 align="center">Hi there 👋, I'm Ron</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RonxldWilson&color=blue" alt="Profile views" />
 </p>

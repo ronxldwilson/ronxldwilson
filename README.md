@@ -26,5 +26,4 @@
 
 - [LinkedIn](https://www.linkedin.com/in/ronxldwilson)  
 - [Twitter](https://twitter.com/ronxldwilson)  
-- [Portfolio](https://ronxldwilson.vercel.app)  
 - [Email](mailto:ronxldwilson@gmail.com)
